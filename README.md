@@ -47,7 +47,6 @@ Memiliki latar belakang akademis di **Sistem Informasi (UNJANI)** dan wawasan op
 ### 📬 Kontak & Informasi
 - 📱 **WhatsApp / Telepon:** [+62 877-4222-9645](https://wa.me/6287742229645)
 - 📍 **Domisili Saat Ini:** Jl. Suradiraja no. 3, Kel. Sukamulya, Kec. Cinambo, Kota Bandung
-- 🚀 **Ketersediaan Kerja:** Siap ditempatkan dan berkontribusi langsung di wilayah **Jakarta (BPR Sentosa Pusat)**
 
 ---
 *“Menghubungkan keandalan infrastruktur teknis dengan kebutuhan operasional bisnis perbankan modern.”*
