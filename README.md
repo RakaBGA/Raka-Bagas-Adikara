@@ -43,7 +43,7 @@ Saya pernah berkuliah jurusan Sistem Informasi (UNJANI) yang saat ini juga menem
 ---
 
 ### 📬 Kontak & Informasi
-- 📱 **WhatsApp / Telepon:** [+62 877-4222-9645](https://wa.me/6287742229645)
+- 📱 **WhatsApp / Telepon:** +62 877-4222-9645 
 - 📍 **Domisili Saat Ini:** Jl. Suradiraja no. 3, Kel. Sukamulya, Kec. Cinambo, Kota Bandung
 
 ---
