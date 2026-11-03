@@ -4,9 +4,7 @@
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6287742229645)
 [![Location](https://img.shields.io/badge/Lokasi-Bandung%20%7C%20Siap%20Relokasi-0078D4?style=for-the-badge&logo=google-maps&logoColor=white)](#)
 
-Profesional teknologi informasi dengan pengalaman lapangan dalam **perakitan perangkat pembayaran digital (IoT QRIS Soundbox)**, **pemeliharaan server & transmisi data**, serta **dukungan operasional switching transaksi finansial**. 
-
-Memiliki latar belakang akademis di **Sistem Informasi (UNJANI)** dan wawasan operasional dari studi **Manajemen (Universitas Terbuka)**. Berpengalaman menangani integrasi teknis di sektor lembaga keuangan (termasuk BPR dan koperasi keuangan nasional) dengan komitmen tinggi pada keandalan sistem (*system uptime*), keamanan transmisi data, dan ketelitian administratif.
+Saya pernah berkuliah jurusan Sistem Informasi (UNJANI) yang saat ini juga menempuh studi Manajemen di Universitas Terbuka. Fokus karier saya ada pada operasional IT, khususnya perakitan perangkat pembayaran digital (IoT QRIS Soundbox) dan pemantauan server. Saya pernah menangani integrasi teknis untuk berbagai mitra lembaga keuangan, mulai dari BPR hingga koperasi, dengan fokus utama pada kelancaran transaksi dan ketelitian data.
 
 ---
 
@@ -14,11 +12,11 @@ Memiliki latar belakang akademis di **Sistem Informasi (UNJANI)** dan wawasan op
 
 #### 🔹 PIC Teknisi & Operasional Sistem — PT Gama Tepat Indonesia / Global X Switching
 - **Perakitan & Deployment Hardware IoT Pembayaran:**
-  - Bertanggung jawab penuh dalam perakitan, konfigurasi, dan pengujian kualitas (*quality control*) unit **QRIS Soundbox** (speaker pintar IoT notifikasi pembayaran non-tunai *real-time*).
+  - Merakit, mengonfigurasi, dan menguji kualitas unit QRIS Soundbox (perangkat IoT notifikasi pembayaran non-tunai).
 - **Server & Data Monitoring:**
-  - Memonitor kestabilan server, mengawasi alur transmisi data (*send/receive transaction data*), dan memastikan latensi rendah serta notifikasi sukses pada perangkat terminal.
+  - Memantau kestabilan server harian dan memastikan pengiriman data transaksi berjalan lancar.
 - **Keterlibatan Sistem Perbankan & Lembaga Keuangan:**
-  - Terlibat dalam koordinasi dan penanganan teknis transaksi untuk mitra keuangan seperti **BPR Cirebon**, **Kopnus (Koperasi Nusantara)**, dan jaringan **Global X Switching**.
+  - Berkoordinasi langsung dengan mitra keuangan seperti BPR Cirebon dan Kopnus untuk menyelesaikan kendala teknis transaksi.
 - **Implementasi Lapangan & Edukasi Publik:**
   - Menjadi PIC teknis dalam demonstrasi dan pengenalan perangkat QRIS Soundbox kepada pelaku UMKM di Balai Warga Bekasi berkolaborasi dengan **Fakultas Ilmu Administrasi Universitas Indonesia (FIA UI)** *(terdokumentasi & diliput media massa)*.
 
@@ -31,10 +29,10 @@ Memiliki latar belakang akademis di **Sistem Informasi (UNJANI)** dan wawasan op
 
 | Kategori | Kompetensi & Tools |
 | :--- | :--- |
-| **FinTech & Hardware** | Perakitan & Konfigurasi IoT QRIS Soundbox, Payment Terminal, Hardware Troubleshooting |
-| **Sistem & Server** | Server Monitoring, Data Flow & Send Data Management, Windows Environment, Diagnostic Tools |
+| **FinTech & Hardware** | Perakitan IoT QRIS Soundbox, Payment Terminal, Troubleshooting Hardware |
+| **Sistem & Server** | Pemantauan Server, Manajemen Alur Data, Windows Environment, Diagnostic Tools |
 | **Lembaga Keuangan** | Pemahaman Operasional Switching Transaksi Finansial, Alur Pembayaran Digital (QRIS), Interkoneksi BPR/Fintech |
-| **Administrasi & Data** | Microsoft Excel / Word, Data Reconciliation, Pencatatan & Dokumentasi Teknis Sistem |
+| **Administrasi & Data** | Rekonsiliasi Data, Microsoft Excel/Word, Dokumentasi Teknis |
 
 ---
 
@@ -49,4 +47,3 @@ Memiliki latar belakang akademis di **Sistem Informasi (UNJANI)** dan wawasan op
 - 📍 **Domisili Saat Ini:** Jl. Suradiraja no. 3, Kel. Sukamulya, Kec. Cinambo, Kota Bandung
 
 ---
-*“Menghubungkan keandalan infrastruktur teknis dengan kebutuhan operasional bisnis perbankan modern.”*
